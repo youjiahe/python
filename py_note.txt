@@ -1,3 +1,17 @@
+
+######################################################################
+●VIM下实现python自动缩进功能
+[root@proxy ~]# vim ~/.vimrc 
+
+set filetype=python
+au BufNewFile,BufRead *.py,*.pyw setf python
+set autoindent " same level indent
+set smartindent " next level indent
+set expandtab
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set number
 ######################################################################
 ●Python文件 
    &格式
