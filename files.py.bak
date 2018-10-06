@@ -1,0 +1,10 @@
+from sys import argv
+from os.path import exists
+
+script, fn1, fn2=argv
+
+indata=open(fn1).read()
+open(fn2,"w").write(indata)
+
+#fn1.close()
+#fn2.close()
