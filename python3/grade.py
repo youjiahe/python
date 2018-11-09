@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#案例1：成绩评级
 grade = int(input('请输入成绩:'))
 if grade >= 90:
     print('优秀')

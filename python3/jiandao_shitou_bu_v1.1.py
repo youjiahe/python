@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#剪刀石头布小游戏；用列表的方法
+#剪刀石头布小游戏，用random.choice[列表变量名] 来提取电脑的拳
 import random
 quan = ['剪刀', '石头', '布']
 com_win=[['剪刀','布'],['石头','剪刀'],['布','石头']]
@@ -8,14 +8,14 @@ c=0
 y=0
 you=-1
 while c<2 and y<2:
-    comput = random.randint(0, 2)
+#    comput = random.randint(0, 2)  #不使用索引取值
     while you not in [0,1,2]:
          you = input("请出拳[0：剪刀;1：石头;2：布]")
          if you not in ['0','1','2']:
              continue
          else:
              you=int(you)
-    com_chu = quan[comput]
+    com_chu = random.choice(quan)   #在列表中随即选中
     you_chu = quan[you]
     zhan_ju = [com_chu, you_chu]
 
