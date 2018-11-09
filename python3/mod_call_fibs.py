@@ -1,2 +1,3 @@
 #!/usr/bin/env python3
-import mo
+import mod_fibs
+mod_fibs.fib()
