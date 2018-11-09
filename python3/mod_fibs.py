@@ -10,6 +10,7 @@ def fib(num=12):
     for i in range(num-2):  #追加10个元素
         fibs.append(fibs[-2]+fibs[-1])
     print(fibs)
+print(__name__)
 if __name__=='__main__': #模块主程序
     fib(4)
     fib(15)
