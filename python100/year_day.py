@@ -52,10 +52,13 @@ else:
         exit()
 
 
+sum1=0
 if leap_judge(y)==0:
     for i in range(m-1):
-        sum_days = sum_days + leap[i] + d
+        sum1 = sum1 + leap[i]
+        sum_days = sum1 + d
 else:
     for j in range(m-1):
-        sum_days = sum_days + common[j] + d
+        sum1 = sum1 + common[j]
+        sum_days = sum1 + d
 print(sum_days)
