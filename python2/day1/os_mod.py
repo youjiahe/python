@@ -6,3 +6,5 @@ import pickle
 import shutil
 
 shutil.copy2('/etc/passwd','/opt/test/')
+os.remove('/opt/test/passwd')
+print(os.getcwd())
