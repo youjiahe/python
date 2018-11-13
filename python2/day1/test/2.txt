@@ -1,0 +1,4 @@
+Hello world!
+I love linux!
+I Love Python!
+I Love GuangZhou!

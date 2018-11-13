@@ -1,3 +1,4 @@
+#老师的写法
 #!/usr/bin/env python3
 stack=[]
 def push_it():
