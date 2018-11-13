@@ -8,7 +8,7 @@ def var_j(st=''):
     for i,j in enumerate(st):
         index=i+1
         if j not in var_ok_str:
-            print('第%d个字符非法' % index)
+            print('%s 第%d个字符非法' % (j,index))
             c += 1
         elif i==0 and j not in first_ok:
             print('\033[31m首字符不正确！\033[0m')
