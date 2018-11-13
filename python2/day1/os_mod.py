@@ -12,4 +12,4 @@ os.chdir('/root')
 
 os.chdir('/root/git/python/python2/day1')
 print(os.getcwd())
-os.
+os.lsdir('/root')
