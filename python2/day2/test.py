@@ -21,3 +21,4 @@ set_info(*alist)   #成功，加一个'*'号
 #     print(dit)
 # mydict()
 # mydict(name='bob',age=25)
+an=(input('>'))
