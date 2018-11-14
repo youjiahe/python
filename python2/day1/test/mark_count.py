@@ -2,23 +2,22 @@
 import pickle as p
 import os
 import keyword
+import time
 file='count.txt'
-os.chdir('/root')
 pwd=os.getcwd()
 if not os.path.isfile(os.path.join(pwd,file)):
     alist = []
 def mark():
     tup={}
-    time='';pay='';comment='';c_type=''
+    ti=time.strftime('%F %R');
+    pay='';comment='';c_type=''
     while not c_type:
         c_type=input('type:')
-    while not time:
-        time=input('time:')
     while not pay:
         pay=input('pay:')
     while not comment:
         comment=input('comment:')
-    tup={'type':c_type,'time':time,'money':pay,'comment':comment}
+    tup={'type':c_type,'time':ti,'money':pay,'comment':comment}
     alist.append(tup)
     with open(file,'wb') as c1:
         p.dump(alist,c1)
@@ -29,7 +28,9 @@ def query():
     except FileNotFoundError:
         print('No such file or directory:%s' % file )
     else:
-        print(marks)
+        print('%10s %20s %8s %20s' % ('type','time','money','comment'))
+        for line in marks:
+            print(tuple(line))
 def show_menu():
     prompt='''[0] mark
 [1] query
