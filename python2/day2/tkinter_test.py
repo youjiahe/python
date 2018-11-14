@@ -1,0 +1,18 @@
+#!/usr/bin/env python3
+import tkinter
+def hello(word):
+    def say_hi():
+        lb.config(text=word)
+    return say_hi
+
+from functools import partial
+root = tkinter.Tk()
+lb = tkinter.Label(root,text='Hello World!',font=['Arial',15])
+mybutton=partial(tkinter.Button,root,fg='black',font=['Arial',12])
+b1=mybutton(text='button1',command=hello('Hello Guangzhou'))
+b2=mybutton(text='button2',command=hello('Hello Tedu'))
+b3=mybutton(text='button3')
+b4=mybutton(text='button4',command=quit)
+for i in [lb,b1,b2,b3,b4]:
+    i.pack()
+root.mainloop()
