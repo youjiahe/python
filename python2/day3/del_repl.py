@@ -4,7 +4,7 @@ def del_re(list=[]):
         for i in list:
             for j in list:
                 if j==i:
-                    list.pop(j)
+                    list.pop(list.index(j))
 li=list('hello')
 lis=del_re(li)
 print(lis)
