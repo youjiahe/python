@@ -2,7 +2,8 @@
 def del_re(list=[]):
     while list:
         for i in list:
-            for j in list:
+            ind=list.index(i)
+            for j in list[ind:]:
                 if j==i:
                     list.pop(list.index(j))
 li=list('hello')
