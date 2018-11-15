@@ -12,6 +12,7 @@ def greet():
     return "How are you?"
 
 if __name__ == '__main__':
-    set_color(hello)
-    print(hello())
+    hh=set_color(hello)
+    print(hh())
+    print(greet)
     print(greet())
