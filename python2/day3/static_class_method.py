@@ -4,7 +4,7 @@ class SC:
         print('Hello World')
 
     @staticmethod
-    def welcome():
+    def welcome(self):
         print('welcome back Rose!')
 
 
