@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import re
+from collections import Counter
 class AccessLogCount:
     def __init__(self,fname,patt):
         self.fname=fname
@@ -8,13 +9,14 @@ class AccessLogCount:
     def __call__(self):
         patt_dict={}
         cpatt=re.compile(self.patt)
+        result = Counter()
         with open(self.fname) as  f:
             for line in f:
                 m = cpatt.search(line)
                 if m:
-                    key = m.group()
-                    patt_dict[key] = patt_dict.get(key,0) +1
-        return patt_dict
+                    result.update([m.group()])
+        return result
+
 
 if __name__ == '__main__':
     fname='access_log'
@@ -23,3 +25,9 @@ if __name__ == '__main__':
     ai_c=AccessLogCount(fname,ip)
     ab_c=AccessLogCount(fname,br)
     print(ab_c())
+    print(ai_c().most_common(3))  #返回最大的三个
+
+
+#运行结果：   结果有排序
+#Counter({'Firefox': 870, 'MSIE': 391, 'Chrome': 24})
+#Counter({'172.40.0.54': 391, '172.40.50.116': 244, '201.1.1.254': 173, '127.0.0.1': 121, '127.0.0.1': 121})
