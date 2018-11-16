@@ -80,16 +80,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="scoket_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../day4/scoket_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="scoket_cycle.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../day4/scoket_cycle.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -146,13 +136,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="udp_server.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="udp_server.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../day4/udp_server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="266">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding>
                 <element signature="e#23#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="access_log_count_again.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../day4/access_log_count_again.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <folding>
+                <element signature="e#23#54#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -205,7 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pian_func.py" />
         <option value="$PROJECT_DIR$/factorial.py" />
         <option value="$PROJECT_DIR$/qsort.py" />
         <option value="$PROJECT_DIR$/gen.py" />
@@ -256,6 +257,7 @@
         <option value="$PROJECT_DIR$/../day4/tcp_client_again.py" />
         <option value="$PROJECT_DIR$/../day4/udp_server.py" />
         <option value="$PROJECT_DIR$/../day4/udp_client.py" />
+        <option value="$PROJECT_DIR$/../day4/access_log_count_again.py" />
       </list>
     </option>
   </component>
@@ -515,13 +517,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tkinter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fname.data">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -904,10 +899,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../day4/udp_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        <state relative-caret-position="266">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="e#23#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day4/access_log_count_again.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="e#23#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
