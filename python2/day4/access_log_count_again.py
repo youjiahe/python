@@ -24,5 +24,5 @@ if __name__ == '__main__':
     fname='access.log'
     ip='(\d{1,3}\.){3}\d{3}'
     br='Chrome|Firefox|MISE'
-    print(list(CountAccess(fname,ip)))
+    print(CountAccess(fname,ip))
     print(CountAccess(fname,br))
