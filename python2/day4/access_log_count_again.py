@@ -14,15 +14,15 @@ class CountAccess:
                 m = cpatt.search(self.patt, line)
                 if m:
                     c.update(m.group())
-                
-    def most(self,num):
+        return c
+
+    def most(self,num=3):
+        return self.__call__().most_common(num)
 
 
 if __name__ == '__main__':
     fname='access.log'
     ip='(\d{1,3}\.){3}\d{3}'
     br='Chrome|Firefox|MISE'
-    print(CountAccess(fname,ip))
+    print(list(CountAccess(fname,ip)))
     print(CountAccess(fname,br))
-    print(CountAccess(fname, ip).most(2))
-    print(CountAccess(fname, br).most(2))
