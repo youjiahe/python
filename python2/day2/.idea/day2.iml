@@ -7,6 +7,7 @@
     <orderEntry type="module" module-name="day1" />
     <orderEntry type="module" module-name="day3" />
     <orderEntry type="module" module-name="python3" />
+    <orderEntry type="module" module-name="day4" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

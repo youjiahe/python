@@ -30,8 +30,6 @@ def increate_back(src_dir,dst_dir,md5file):
     fname = os.path.join(dst_dir,fname)
 
     tar = tarfile.open(fname,'w:gz')
-    tar.add(src_dir)
-    tar.close()
 
     #递归列出目录下的所有文件
     mydict={}
