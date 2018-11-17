@@ -62,4 +62,4 @@ if __name__ == '__main__':
     poker_dict=poker.poker_produce()
     print(poker_dict)
     players=['a','b','c','d']
-    
+    print(poker_dict.get(52))
