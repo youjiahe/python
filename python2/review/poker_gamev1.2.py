@@ -62,4 +62,6 @@ if __name__ == '__main__':
     poker_dict=poker.poker_produce()
     print(poker_dict)
     players=['a','b','c','d']
+    index=list(poker_dict.keys())[list(poker_dict.values()).index('♣A')]
     print(poker_dict.get(52))
+    print(index)
