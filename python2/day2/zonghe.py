@@ -5,7 +5,7 @@
 # newadd=partial(add,10,20,30,40)
 # print(newadd(20))
 #generator
-import time
+import time_method
 def num():
     a= 10 +20
     yield a
@@ -19,9 +19,9 @@ while True:
     try:
         o=mg.__next__()
         print(o,end='\r')
-        time.sleep(0.4)
+        time_method.sleep(0.4)
     except StopIteration:
-        time.sleep(0.4)
+        time_method.sleep(0.4)
         mg = num()
         continue
 

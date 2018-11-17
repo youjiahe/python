@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import pickle as p
-import time
+import time_method
 import os
 #账本
 def save(fname):
@@ -12,7 +12,7 @@ def save(fname):
             continue
         else:
             break
-    ti=time.strftime('%F')
+    ti=time_method.strftime('%F')
 
     with open(fname,'rb') as f:
         data_old=p.load(f)
@@ -32,7 +32,7 @@ def cost(fname):
             continue
         else:
             break
-    ti=time.strftime('%F')
+    ti=time_method.strftime('%F')
     with open(fname,'rb') as f:
         data_old = p.load(f)
     balance = data_old[-1][-2] - cos

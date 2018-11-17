@@ -1,13 +1,13 @@
 #coding utf-8
 #!/usr/bin/env python3
 from datetime import datetime
-import time
+import time_method
 import pickle as p
 import os
 def save(fname):
     amount=int(input('acount:'))
     comment=input('comment:')
-    ti=time.strftime('%F %R')
+    ti=time_method.strftime('%F %R')
     with open(fname,'rb') as f:
         records=p.load(f)
         balance=records[-1][2] + amount
@@ -20,7 +20,7 @@ def save(fname):
 def cost(fname):
     pay=int(input('pay:'))
     comment=input('comment:')
-    ti=time.strftime('%F')
+    ti=time_method.strftime('%F')
     with open(fname,'rb') as f:
         records=p.load(f)
         balance=records[-1][2] - pay
