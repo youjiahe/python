@@ -2,6 +2,7 @@
 import time
 import socket
 import os
+import threading
 class TcpSer:
     def __init__(self,host='',port=12345):
         self.addr=(host,port)
@@ -27,18 +28,9 @@ class TcpSer:
             except KeyboardInterrupt:
                 print()
                 break
-            pid=os.fork()
-            if pid:
-                client_sock.close()
-                while True:
-                    result = os.waitpid(-1, 1)
-                    print(result)
-                    if result[0]==0:
-                        break
-            else:
-                self.chat(client_sock)
-                client_sock.close()
-                exit()
+            th=threading.Thread(target=self.chat,args=client_sock)
+            th.start()
+            client_sock.close()
 
         self.serv.close()
 
