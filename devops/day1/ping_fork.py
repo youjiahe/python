@@ -3,7 +3,7 @@ import subprocess
 import os
 from time import sleep
 n=0
-class ping:
+class Ping:
     def __init__(self,ip):
         self.ip=ip
 
@@ -18,11 +18,11 @@ if __name__ == '__main__':
     for ip in range(1,254):
         pid=os.fork()
         if not pid:
-            p=ping("176.121.207.%s" % ip)
+            p=Ping("176.121.207.%s" % ip)
             rc=p.ping()
             if rc!=0:
                 n += 1
-                print(rc)
+                print(rc,n)
                 exit()
             else:
                 exit()
