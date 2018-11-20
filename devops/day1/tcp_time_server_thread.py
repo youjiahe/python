@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import time
 import socket
-import os
 import threading
 class TcpSer:
     def __init__(self,host='',port=12345):
@@ -20,6 +19,7 @@ class TcpSer:
                 client_sock.send(data.encode())
             except BrokenPipeError:
                 break
+        client_sock.close()
 
     def mainloop(self):
         while True:
@@ -28,10 +28,8 @@ class TcpSer:
             except KeyboardInterrupt:
                 print()
                 break
-            th=threading.Thread(target=self.chat,args=client_sock)
+            th=threading.Thread(target=self.chat,args=(client_sock,))
             th.start()
-            client_sock.close()
-
         self.serv.close()
 
 if __name__ == '__main__':
