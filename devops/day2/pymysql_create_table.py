@@ -10,6 +10,7 @@ conn = pymysql.connect(
 )
 curso=conn.cursor()
 create1="create table test1(name char(10))"
+
 show="show tables"
 curso.execute(create1)
 curso.execute(show)
