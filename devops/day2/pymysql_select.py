@@ -4,16 +4,16 @@ conn = pymysql.connect(
     port=3306,
     user="student",
     password="123456",
-    db="nsd1806",
+    db="tedu1806",
     charset="utf8"
 )
 cusor=conn.cursor()  #创建游标，相当于指向数据库某个位置的指针
-select1="select * from department"
+select1="select * from departments"
 cusor.execute(select1)
-result=cusor.fetchone()
-print(result)
-result=cusor.fetchmany(2)
-print(result)
+# result=cusor.fetchone()
+# print(result)
+# result=cusor.fetchmany(2)
+# print(result)
 result=cusor.fetchall()
 print(result)
 cusor.close()

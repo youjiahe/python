@@ -5,7 +5,15 @@
     <bookmark url="file://$PROJECT_DIR$/../review/time_method.py" line="6" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8341ff3a-8f33-428c-ba18-3c6c2ed9e88c" name="Default" comment="" />
+    <list default="true" id="8341ff3a-8f33-428c-ba18-3c6c2ed9e88c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devops/day2/sqlalchemy_query.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devops/day2/sqlalchemy_query1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/../../devops/day1/threads.py" afterPath="$PROJECT_DIR$/../../devops/day1/threads.py" />
+      <change beforePath="$PROJECT_DIR$/../../devops/day2/pymysql_select.py" afterPath="$PROJECT_DIR$/../../devops/day2/pymysql_select.py" />
+      <change beforePath="$PROJECT_DIR$/../../devops/day2/pymysql_update.py" afterPath="$PROJECT_DIR$/../../devops/day2/pymysql_update.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +24,8 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/day2$partial_func.coverage" NAME="partial_func Coverage Results" MODIFIED="1542198109887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day2$test.coverage" NAME="test Coverage Results" MODIFIED="1542198136292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2$sqlalchemy_insert.coverage" NAME="sqlalchemy_insert Coverage Results" MODIFIED="1542706890604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../devops/day2" />
+    <SUITE FILE_PATH="coverage/day2$sqlalchemy_query1.coverage" NAME="sqlalchemy_query1 Coverage Results" MODIFIED="1542707158184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../devops/day2" />
     <SUITE FILE_PATH="coverage/day2$qsort.coverage" NAME="qsort Coverage Results" MODIFIED="1542187643252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day2$class_date.coverage" NAME="class_date Coverage Results" MODIFIED="1542332715407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../day4" />
     <SUITE FILE_PATH="coverage/day2$back_up_again.coverage" NAME="back_up_again Coverage Results" MODIFIED="1542326402292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../day3" />
@@ -25,7 +35,7 @@
     <SUITE FILE_PATH="coverage/day2$class_access_log_c.coverage" NAME="class_access_log_c Coverage Results" MODIFIED="1542340752316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../day4" />
     <SUITE FILE_PATH="coverage/day2$backup_class.coverage" NAME="backup_class Coverage Results" MODIFIED="1542446172667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../review" />
     <SUITE FILE_PATH="coverage/day2$Unix2txt.coverage" NAME="Unix2txt Coverage Results" MODIFIED="1542436262368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../review" />
-    <SUITE FILE_PATH="coverage/day2$pymysql_select.coverage" NAME="pymysql_select Coverage Results" MODIFIED="1542685199110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../devops/day2" />
+    <SUITE FILE_PATH="coverage/day2$pymysql_select.coverage" NAME="pymysql_select Coverage Results" MODIFIED="1542699999431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../devops/day2" />
     <SUITE FILE_PATH="coverage/day2$factory_combind.coverage" NAME="factory_combind Coverage Results" MODIFIED="1542271286403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../day3" />
     <SUITE FILE_PATH="coverage/day2$factory_subclass.coverage" NAME="factory_subclass Coverage Results" MODIFIED="1542273642973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../day3" />
     <SUITE FILE_PATH="coverage/day2$mark_count.coverage" NAME="mark_count Coverage Results" MODIFIED="1542165129538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../day1" />
@@ -37,11 +47,13 @@
     <SUITE FILE_PATH="coverage/day2$day2_anli1_teacher.coverage" NAME="day2_anli1_teacher Coverage Results" MODIFIED="1542180458839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day2$review_shutils.coverage" NAME="review_shutils Coverage Results" MODIFIED="1542423489165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../review" />
     <SUITE FILE_PATH="coverage/day2$access_log_count.coverage" NAME="access_log_count Coverage Results" MODIFIED="1542349074863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../day4" />
-    <SUITE FILE_PATH="coverage/day2$threads.coverage" NAME="threads Coverage Results" MODIFIED="1542677097383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../devops/day1" />
+    <SUITE FILE_PATH="coverage/day2$threads.coverage" NAME="threads Coverage Results" MODIFIED="1542690280965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../devops/day1" />
+    <SUITE FILE_PATH="coverage/day2$sqlalchemy_.coverage" NAME="sqlalchemy_ Coverage Results" MODIFIED="1542698210396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../devops/day2" />
     <SUITE FILE_PATH="coverage/day2$access_log_count_again.coverage" NAME="access_log_count_again Coverage Results" MODIFIED="1542366221597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../day4" />
     <SUITE FILE_PATH="coverage/day2$collections.coverage" NAME="collections Coverage Results" MODIFIED="1542445484989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../review" />
     <SUITE FILE_PATH="coverage/day2$day4_anli5.coverage" NAME="day4_anli5 Coverage Results" MODIFIED="1542175935962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../day1" />
     <SUITE FILE_PATH="coverage/day2$poker_gamev1_2.coverage" NAME="poker_gamev1.2 Coverage Results" MODIFIED="1542449084154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../review" />
+    <SUITE FILE_PATH="coverage/day2$sqlalchemy_query.coverage" NAME="sqlalchemy_query Coverage Results" MODIFIED="1542705364657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../devops/day2" />
     <SUITE FILE_PATH="coverage/day2$day1_anli7.coverage" NAME="day1_anli7 Coverage Results" MODIFIED="1542166427814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day2$scoket_cycle_teacher.coverage" NAME="scoket_cycle_teacher Coverage Results" MODIFIED="1542354215570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../day4" />
     <SUITE FILE_PATH="coverage/day2$tkinter_bibao.coverage" NAME="tkinter_bibao Coverage Results" MODIFIED="1542199961171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -51,6 +63,7 @@
     <SUITE FILE_PATH="coverage/day2$del_repl.coverage" NAME="del_repl Coverage Results" MODIFIED="1542259517653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../day3" />
     <SUITE FILE_PATH="coverage/day2$list_method.coverage" NAME="list_method Coverage Results" MODIFIED="1542426966179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../review" />
     <SUITE FILE_PATH="coverage/day2$day2_anli1.coverage" NAME="day2_anli1 Coverage Results" MODIFIED="1542175461673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2$pymysql_update.coverage" NAME="pymysql_update Coverage Results" MODIFIED="1542686538350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../devops/day2" />
     <SUITE FILE_PATH="coverage/day2$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1542198098206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day2$recursive_sort.coverage" NAME="recursive_sort Coverage Results" MODIFIED="1542594006389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../review" />
     <SUITE FILE_PATH="coverage/day2$adduser.coverage" NAME="adduser Coverage Results" MODIFIED="1542435136020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../review" />
@@ -65,6 +78,7 @@
     <SUITE FILE_PATH="coverage/day2$udp_client.coverage" NAME="udp_client Coverage Results" MODIFIED="1542361765814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../day4" />
     <SUITE FILE_PATH="coverage/day2$tar_again.coverage" NAME="tar_again Coverage Results" MODIFIED="1542286620871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../day3" />
     <SUITE FILE_PATH="coverage/day2$txt_produce.coverage" NAME="txt_produce Coverage Results" MODIFIED="1542424770889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../review" />
+    <SUITE FILE_PATH="coverage/day2$pymysql_create_table.coverage" NAME="pymysql_create_table Coverage Results" MODIFIED="1542694127873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../devops/day2" />
     <SUITE FILE_PATH="coverage/day2$factory.coverage" NAME="factory Coverage Results" MODIFIED="1542270648171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../day3" />
     <SUITE FILE_PATH="coverage/day2$TCP_timestamp.coverage" NAME="TCP_timestamp Coverage Results" MODIFIED="1542357572792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../day4" />
     <SUITE FILE_PATH="coverage/day2$class_book.coverage" NAME="class_book Coverage Results" MODIFIED="1542275661710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../day3" />
@@ -106,59 +120,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ping_thread_class.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devops/day1/ping_thread_class.py">
+      <file leaf-file-name="pymysql_insert.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devops/day2/pymysql_insert.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="304">
+              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
-                <element signature="e#23#40#0" expanded="true" />
+                <marker date="1542684826416" expanded="true" signature="216:253" ph="insert into department... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ping_thread_def.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devops/day1/ping_thread_def.py">
+      <file leaf-file-name="sqlalchemy_class.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devops/day2/sqlalchemy_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            <state relative-caret-position="209">
+              <caret line="32" column="61" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="32" selection-end-column="61" />
               <folding>
-                <element signature="e#23#40#0" expanded="true" />
+                <element signature="e#94#130#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="poker_gamev1.2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../review/poker_gamev1.2.py">
+      <file leaf-file-name="sqlalchemy_add.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devops/day2/sqlalchemy_add.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1197">
-              <caret line="64" column="26" lean-forward="false" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+            <state relative-caret-position="437">
+              <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="threads.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devops/day1/threads.py">
+      <file leaf-file-name="sqlalchemy_query.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devops/day2/sqlalchemy_query.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            <state relative-caret-position="-1336">
+              <caret line="39" column="24" lean-forward="false" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
               <folding>
-                <element signature="e#23#39#0" expanded="true" />
+                <element signature="e#23#65#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pymysql_insert.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devops/day2/pymysql_insert.py">
+      <file leaf-file-name="sqlalchemy_query1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../devops/day2/sqlalchemy_query1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="17" selection-end-column="12" />
+            <state relative-caret-position="456">
+              <caret line="24" column="57" lean-forward="false" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pymysql_create_table.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devops/day2/pymysql_create_table.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
-                <marker date="1542684826416" expanded="true" signature="216:253" ph="insert into department... " />
+                <marker date="1542694127828" expanded="true" signature="217:250" ph="create table... test1" />
               </folding>
             </state>
           </provider>
@@ -167,10 +191,11 @@
       <file leaf-file-name="pymysql_select.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../devops/day2/pymysql_select.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="228">
+              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding>
-                <marker date="1542685218757" expanded="true" signature="216:240" ph="select * fro... department" />
+                <marker date="1542699999396" expanded="true" signature="217:241" ph="select * fro... department" />
+                <marker date="1542699999396" expanded="true" signature="217:242" ph="select * fro... departments" />
               </folding>
             </state>
           </provider>
@@ -179,8 +204,8 @@
       <file leaf-file-name="pymysql_select_scroll.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../devops/day2/pymysql_select_scroll.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <state relative-caret-position="38">
+              <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
               <folding>
                 <marker date="1542686222833" expanded="true" signature="216:240" ph="select * fro... department" />
               </folding>
@@ -188,14 +213,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pymysql_update.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pymysql_update.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../devops/day2/pymysql_update.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            <state relative-caret-position="323">
+              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
               <folding>
-                <marker date="1542686415988" expanded="true" signature="216:230" ph="select * fro... my" />
-                <marker date="1542686415988" expanded="true" signature="216:240" ph="select * fro... department" />
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1542686612553" expanded="true" signature="234:248" ph="select * fro... my" />
+                <marker date="1542686612553" expanded="true" signature="234:258" ph="select * fro... department" />
+                <marker date="1542686612553" expanded="true" signature="269:322" ph="update department... " />
+                <marker date="1542686612553" expanded="true" signature="269:324" ph="update department... " />
               </folding>
             </state>
           </provider>
@@ -204,20 +232,8 @@
       <file leaf-file-name="tcp_time_server.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../devops/day1/tcp_time_server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="28" selection-end-column="21" />
-              <folding>
-                <element signature="e#23#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tcp_time_server_thread.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devops/day1/tcp_time_server_thread.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            <state relative-caret-position="209">
+              <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
               <folding>
                 <element signature="e#23#34#0" expanded="true" />
               </folding>
@@ -237,15 +253,12 @@
       <replace>fname</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../day4/udp_server.py" />
-        <option value="$PROJECT_DIR$/../day4/udp_client.py" />
-        <option value="$PROJECT_DIR$/../day4/access_log_count_again.py" />
-        <option value="$PROJECT_DIR$/../day4/backup.py" />
-        <option value="$PROJECT_DIR$/../day4/regexp.pratice.py" />
-        <option value="$PROJECT_DIR$/../day4/TCP_server.py" />
         <option value="$PROJECT_DIR$/../day4/game_sangong.py" />
         <option value="$PROJECT_DIR$/../day4/poker_game.py" />
         <option value="$PROJECT_DIR$/../review/txt_produce.py" />
@@ -286,11 +299,17 @@
         <option value="$PROJECT_DIR$/../../devops/day1/ping_thread_class.py" />
         <option value="$PROJECT_DIR$/../../devops/day1/tcp_time_server_thread.py" />
         <option value="$PROJECT_DIR$/../../devops/day1/ping_thread_def.py" />
-        <option value="$PROJECT_DIR$/../../devops/day1/threads.py" />
         <option value="$PROJECT_DIR$/../../devops/day2/pymysql1.py" />
-        <option value="$PROJECT_DIR$/../../devops/day2/pymysql_select.py" />
         <option value="$PROJECT_DIR$/../../devops/day2/pymysql_select_scroll.py" />
         <option value="$PROJECT_DIR$/../../devops/day2/pymysql_update.py" />
+        <option value="$PROJECT_DIR$/../../devops/day1/threads.py" />
+        <option value="$PROJECT_DIR$/../../devops/day2/pymysql_create_table.py" />
+        <option value="$PROJECT_DIR$/../../devops/day2/sqlalchemy_insert.py" />
+        <option value="$PROJECT_DIR$/../../devops/day2/pymysql_select.py" />
+        <option value="$PROJECT_DIR$/../../devops/day2/sqlalchemy_.py" />
+        <option value="$PROJECT_DIR$/../../devops/day2/sqlalchemy_query.py" />
+        <option value="$PROJECT_DIR$/../../devops/day2/sqlalchemy_add.py" />
+        <option value="$PROJECT_DIR$/../../devops/day2/sqlalchemy_query1.py" />
       </list>
     </option>
   </component>
@@ -300,12 +319,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="11" />
-    <option name="y" value="183" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-265" />
+    <option name="y" value="54" />
     <option name="width" value="1265" />
     <option name="height" value="797" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -338,18 +358,6 @@
               <item name="day2" type="b2602c69:ProjectViewProjectNode" />
               <item name="devops" type="462c0819:PsiDirectoryNode" />
               <item name="day2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="day2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="day2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="day2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="review" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -391,26 +399,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pymysql_select_scroll">
-    <configuration name="pymysql1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../devops/day2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="devops" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../devops/day2/pymysql_insert.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.sqlalchemy_query1">
     <configuration name="pymysql_select" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -430,7 +419,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="pymysql_select_scroll" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sqlalchemy_" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -443,64 +432,83 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="devops" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../devops/day2/pymysql_select_scroll.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../devops/day2/sqlalchemy_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sqlalchemy_insert" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../devops/day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../devops/day2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="devops" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../devops/day1/sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../devops/day2/sqlalchemy_add.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="threads" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sqlalchemy_query" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../devops/day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../devops/day2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="devops" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../devops/day1/threads.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../devops/day2/sqlalchemy_query.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="sqlalchemy_query1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../devops/day2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="devops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../devops/day2/sqlalchemy_query1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.sum" />
-      <item index="1" class="java.lang.String" itemvalue="Python.threads" />
-      <item index="2" class="java.lang.String" itemvalue="Python.pymysql1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.pymysql_select" />
-      <item index="4" class="java.lang.String" itemvalue="Python.pymysql_select_scroll" />
+      <item index="0" class="java.lang.String" itemvalue="Python.sqlalchemy_" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sqlalchemy_insert" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pymysql_select" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sqlalchemy_query" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sqlalchemy_query1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pymysql_select_scroll" />
-        <item index="1" class="java.lang.String" itemvalue="Python.pymysql_select" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pymysql1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.threads" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sum" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sqlalchemy_query1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sqlalchemy_insert" />
+        <item index="2" class="java.lang.String" itemvalue="Python.sqlalchemy_query" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pymysql_select" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sqlalchemy_" />
       </list>
     </recent_temporary>
   </component>
@@ -530,23 +538,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="11" y="183" width="1265" height="797" extended-state="0" />
+    <frame x="0" y="28" width="1920" height="1018" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.49786097" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2813212" sideWeight="0.50606394" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26231387" sideWeight="0.28983957" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.49786097" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4733638" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26231387" sideWeight="0.71016043" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4684492" sideWeight="0.49786097" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29053497" sideWeight="0.49405771" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2813212" sideWeight="0.49393606" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18877006" sideWeight="0.49405771" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28064147" sideWeight="0.48983958" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2542373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.122994654" sideWeight="0.5059423" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32469305" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32460135" sideWeight="0.49786097" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -571,46 +579,11 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../day3/backup_teacher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" column="41" lean-forward="false" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../day3/back_up_again.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1216">
-          <caret line="68" column="44" lean-forward="false" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../day4/access_log_count_again.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../review/txt_produce.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../review/list_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../day3/list_re_del.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -850,7 +823,7 @@
         <state relative-caret-position="228">
           <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="30" />
           <folding>
-            <element signature="e#23#32#0" expanded="true" />
+            <element signature="e#23#32#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -860,7 +833,7 @@
         <state relative-caret-position="38">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
-            <element signature="e#23#36#0" expanded="true" />
+            <element signature="e#23#36#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -870,7 +843,7 @@
         <state relative-caret-position="266">
           <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
           <folding>
-            <element signature="e#23#40#0" expanded="true" />
+            <element signature="e#23#40#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -880,27 +853,7 @@
         <state relative-caret-position="285">
           <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
           <folding>
-            <element signature="e#23#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/day1/tcp_time_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="e#23#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/day1/tcp_time_server_thread.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-          <folding>
-            <element signature="e#23#34#0" expanded="true" />
+            <element signature="e#23#40#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -910,7 +863,7 @@
         <state relative-caret-position="190">
           <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
           <folding>
-            <element signature="e#23#40#0" expanded="true" />
+            <element signature="e#23#40#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -923,54 +876,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/day1/threads.py">
+    <entry file="file://$PROJECT_DIR$/../../devops/day1/tcp_time_server_thread.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="e#23#34#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devops/day1/threads.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding>
             <element signature="e#23#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../devops/day1/tcp_time_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <element signature="e#23#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../devops/day2/pymysql_insert.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="17" selection-end-column="12" />
+        <state relative-caret-position="304">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <marker date="1542684826416" expanded="true" signature="216:253" ph="insert into department... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/day2/pymysql_select.py">
+    <entry file="file://$PROJECT_DIR$/../../devops/day2/pymysql_create_table.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="304">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
-            <marker date="1542685218757" expanded="true" signature="216:240" ph="select * fro... department" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/day2/pymysql_select_scroll.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding>
-            <marker date="1542686222833" expanded="true" signature="216:240" ph="select * fro... department" />
+            <marker date="1542694127828" expanded="true" signature="217:250" ph="create table... test1" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../devops/day2/pymysql_update.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        <state relative-caret-position="323">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
           <folding>
-            <marker date="1542686415988" expanded="true" signature="216:230" ph="select * fro... my" />
-            <marker date="1542686415988" expanded="true" signature="216:240" ph="select * fro... department" />
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1542686612553" expanded="true" signature="234:248" ph="select * fro... my" />
+            <marker date="1542686612553" expanded="true" signature="234:258" ph="select * fro... department" />
+            <marker date="1542686612553" expanded="true" signature="269:322" ph="update department... " />
+            <marker date="1542686612553" expanded="true" signature="269:324" ph="update department... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devops/day2/pymysql_select_scroll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding>
+            <marker date="1542686222833" expanded="true" signature="216:240" ph="select * fro... department" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devops/day2/pymysql_select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <marker date="1542699999396" expanded="true" signature="217:241" ph="select * fro... department" />
+            <marker date="1542699999396" expanded="true" signature="217:242" ph="select * fro... departments" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devops/day2/sqlalchemy_query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1336">
+          <caret line="39" column="24" lean-forward="false" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+          <folding>
+            <element signature="e#23#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devops/day2/sqlalchemy_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="32" column="61" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="32" selection-end-column="61" />
+          <folding>
+            <element signature="e#94#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devops/day2/sqlalchemy_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devops/day2/sqlalchemy_query1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="57" lean-forward="false" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
