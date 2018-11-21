@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#request
+#request.urlopen('url')
 from urllib import request
 html = request.urlopen("https://www.163.com")
 html1 = request.urlopen("https://www.baidu.com")

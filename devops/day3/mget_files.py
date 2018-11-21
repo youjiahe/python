@@ -1,9 +1,7 @@
 #coding=utf8
 #!/usr/bin/env python3
 from urllib import request
-import pickle as p
 import re
-import sys
 
 def get_file(url, dst):
     try:
@@ -22,7 +20,6 @@ def get_urls(fname,patt):
     with open(fname,'rb') as fobj:
         for line in fobj:
             url=re.search(patt,line.decode(errors="ignore"))
-
             if url:
                 urls.append(url.group())
     return urls
@@ -31,7 +28,7 @@ if __name__ == '__main__':
     url="https://www.163.com"
     dst="/opt/test/163_com.html"
     get_file(url,dst)
-    patt="(http|https)://[/.\w]+(jpg|jpeg|png|gif)"
+    patt="https?://[/\w.-]+(jpg|jpeg|png|gif)"
     urls=get_urls(dst,patt)
 
     for url in urls:

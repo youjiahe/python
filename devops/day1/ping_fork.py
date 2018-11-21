@@ -11,23 +11,17 @@ class Ping:
         rc=subprocess.call('ping -i0.1 -c2 -W1 %s &>/dev/null' % self.ip,shell=True)
         if rc==0:
             return "%s......\033[32;1m[up]\033[0m" % self.ip
-        else:
-            return 0
 if __name__ == '__main__':
-    rc=0
     for ip in range(1,254):
         pid=os.fork()
         if not pid:
             p=Ping("176.121.207.%s" % ip)
             rc=p.ping()
             if rc!=0:
-                n += 1
                 print(rc,n)
                 exit()
             else:
                 exit()
-    else:
-        sleep(3)
-        print(n)
+
 
 
