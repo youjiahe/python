@@ -26,6 +26,10 @@ session=Session()
 query1=session.query(Departments.dep_id,Departments.dep_name)
 for dep in query1:
     print(dep)
+query2=session.query(Employees.emp_name,Departments.dep_name).join(Departments,Employees.dep_id==Departments.dep_id)
+for emp in query2:
+    print(emp)
+
 session.commit()
 session.close()
 

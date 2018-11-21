@@ -22,9 +22,9 @@ class Employees(Base):
     __tablename__="employees"
     emp_id=Column(Integer,primary_key=True)
     emp_name=Column(String(20))
-    gender=(String(2))
+    gender=Column(String(2))
     birth_date=Column(Date)
-    dep_id=(int,ForeignKey("departments.dep_id"))
+    dep_id=Column(Integer,ForeignKey("departments.dep_id"))
 
     def __str__(self):
         return "<员工:%s>" % self.emp_name
