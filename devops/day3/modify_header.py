@@ -5,6 +5,7 @@ url='http://139.159.193.210'
 url='https://www.jd.com'
 #伪造头部信息
 header={'User-Agent':'Mozilla/5.0 (X11; WIN10 x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36'}
+#创建request对象
 req=request.Request(url,headers=header)
 #req=request.Request(url)
 n=0
