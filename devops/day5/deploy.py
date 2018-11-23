@@ -2,7 +2,8 @@
 import os
 import requests
 import hashlib
-def check_version(fname,ver_url):
+import tarfile
+def check_version(ver_url,fname):
     #如果版本文件不存在，则表示需要更新
     if not os.path.isfile(fname):
         return True
@@ -31,26 +32,50 @@ def check_md5(url,fname):
     file_md5=m.hexdigest()
 
     r = requests.get(url)
-    if r.text==file_md5.strip():
+    if r.text.strip()==file_md5:
         return True   #文件未损坏，返回True
     return False      #文件损坏，返回False
 
-def deploy(app_fname):
-    os.chdir('/var/www/deploy',)
+def deploy(deploy_dir,link,app_fname):
+    os.chdir(deploy_dir)
+    tar = tarfile.open(app_fname,'r:gz')
+    tar.extractall()
+    tar.close()
 
+    if os.path.islink(link):
+        os.unlink(link)
+
+    src=app_fname.split('/')[-1].replace('.tar.gz','')
+    src=os.path.join(deploy_dir,src)
+    dst=link
+    os.symlink(src,dst)
 
 if __name__ == '__main__':
-    ver_url='http://'
-    fname=''
+    deploy_dir = '/var/www/deploy'
+    download_dir='/var/www/download'
+    link = '/var/www/html/nsd1806'
+
+    ver_url='http://192.168.4.3/deploy/live_version'
+    fname='%s/live_version' % deploy_dir
     new_version = check_version(ver_url,fname)
     if not new_version:
         print('没有新版本更新!')
         exit(1)
-    download()
-    md5 = check_md5()
+
+    r = requests.get(ver_url)
+    app_url='http://192.168.4.3/deploy/packages/web_pro%s.tar.gz' % r.text.strip()
+    app_fname=app_url.split('/')[-1]
+    app_fname=os.path.join(download_dir,app_fname)
+    download(app_url,app_fname)
+
+    md5_url='http://192.168.4.3/deploy/packages/web_pro%s.tar.gz.md5' % r.text.strip()
+    md5 = check_md5(md5_url,app_fname)
     if not md5:
         print('文件有损坏')
         exit(2)
-    deploy()
-    download()
+
+    deploy(deploy_dir,link,app_fname)
+
+    #更新本地version文件
+    download(ver_url,fname)
     print('新版本部署完成')
