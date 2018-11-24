@@ -3,6 +3,7 @@ import requests
 import os
 import hashlib
 import tarfile
+import ding_Robot
 def check_version(url,fname):
     if not os.path.isfile(fname):
         return  True
@@ -12,7 +13,7 @@ def check_version(url,fname):
             data = fobj.read(1024)
             if not data:
                 break
-            if data != r.text.strip():
+            if data != r.text:
                 return True
     return False
 
@@ -77,3 +78,8 @@ if __name__ == '__main__':
     deploy(deploy_dir,link,app_fname)
     #更新本地版本文件
     download(ver_url,ver_fname)
+
+    msg = 'work_platform_%s 部署完成' % version.text.strip()
+    reminders = ['']
+    url = 'https://oapi.dingtalk.com/robot/send?access_token=47f4ae71f59ee1624cf30a4f6a4641fac15478aeec406c7f952556906096d790'
+    ding_Robot.send_msg(url,reminders,msg)
