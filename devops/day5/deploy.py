@@ -8,7 +8,7 @@ def check_version(ver_url,fname):
     if not os.path.isfile(fname):
         return True
 
-    #如果
+    #如果线上版本与web服务器版本(本地)不一致，则需要更新
     f=requests.get(ver_url)
     with open(fname) as fobj:
         local_ver=fobj.read()
@@ -16,7 +16,7 @@ def check_version(ver_url,fname):
         return True
     return False
 
-def download(url,fname):
+def download(url,fname):  #从jenkins服务器下载软件包，版本信息
     r = requests.get(url)
     with open(fname,'wb') as fobj:
         fobj.write(r.content)
