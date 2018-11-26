@@ -1,0 +1,34 @@
+---
+- name: deploy webserver
+  hosts: web
+  tasks:
+    - name: install apache pkgs
+      yum: 
+        name: [httpd,php,php-mysql]
+        state: latest
+
+    - name: start apache web service
+      service:
+        name: httpd
+        state: started
+        enabled: yes
+          
+    - name: deploy web files
+      copy:
+        src: files/index.html
+        dest: /var/www/html/index.html
+
+- name: deploy mariadb
+  hosts: db
+  tasks: 
+    - name: install mariadb
+      yum:
+        name: [mariadb,mariadb-server]
+        state: present
+
+    - name: start mariadb
+      service:
+        name: mariadb
+        state: reloaded
+        enabled: yes
+  tags: mariadb

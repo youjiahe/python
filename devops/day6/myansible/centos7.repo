@@ -1,0 +1,5 @@
+[centos7]
+name=centos7
+baseurl=ftp://192.168.1.254/centos7
+enable=1
+gpgcheck=1

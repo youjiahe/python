@@ -1,0 +1,13 @@
+---
+- name: init system
+  hosts: all
+  tasks:
+    - name: authrized_key deploy
+      authorized_key: 
+        user: root
+        state: present
+        key: "{{ lookup('file', '/root/.ssh/id_rsa.pub') }}"
+    - name: deploy repo
+      copy: 
+        src: centos7.repo
+        dest: /etc/yum.repos.d/centos7.repo
