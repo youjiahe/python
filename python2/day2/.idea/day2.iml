@@ -10,6 +10,7 @@
     <orderEntry type="module" module-name="day4" />
     <orderEntry type="module" module-name="review" />
     <orderEntry type="module" module-name="devops" />
+    <orderEntry type="module" module-name="devweb" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
