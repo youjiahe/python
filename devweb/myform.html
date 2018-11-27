@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>my form</title>
+    <script>
+        function showme() {
+            alert('hello world!')
+        }
+    </script>
+</head>
+<body>
+<select name="老师" id="teacher2" multiple>
+    <option value="1">牛犇</option>
+    <option value="2">王凯</option>
+    <option value="3" >丁明一</option>
+    <option value="4">庞丽静</option>
+    <option value="5">李欣</option>
+</select>
+<form action="">
+    选择老师：
+    <br>
+    <select name="老师" id="teacher">
+        <option value="nb">牛犇</option>
+        <option value="wk">王凯</option>
+        <option value="dmy" selected>丁明一</option>
+        <option value="plj">庞丽静</option>
+        <option value="lx">李欣</option>
+    </select>
+</form>
+<hr>
+<form action="" method="post">
+    <input type="file">
+    <input type="submit" value="上传">
+</form>
+<hr>
+<input type="button" value="警告" onclick="showme()">
+<hr>
+<!--
+1. form的 action是网址，表示提交数据时，发给哪个网址处理
+2. action的网址 在后台可以对应一个函数，这个函数就可以接收form表单传来的数据
+3. 表单默认方法是get
+-->
+<form action="">
+    <label>用户:</label><input type="text" placeholder="用户名">
+    <br>
+    <label>密码:</label><input type="password" placeholder="密码">
+    <br>
+    <input type="submit" value="提交">
+    <input type="reset" value="重置">
+</form>
+<hr>
+<form action="">
+    3. (单选题)binlog日志默认最大存储容量是多少？（） <br>
+    <input type="checkbox" name="question3" value="A"><label>A.200M</label><br>
+    <input type="checkbox" name="question3" value="B"><label>B.500M</label><br>
+    <label><input type="checkbox" name="question3" value="C" id="CC">C.250M</label><br>
+    <input type="checkbox" name="question3" value="D" id="DD"><label for="DD">D.100M</label><br>
+    <input type="submit" value="确定">
+</form>
+<hr>
+<form action="">
+    3. (单选题)binlog日志默认最大存储容量是多少？（） <br>
+    <input type="radio" name="question3" value="A"><label>A.200M</label><br>
+    <input type="radio" name="question3" value="B"><label>B.500M</label><br>
+    <label>C.250M</label><input type="radio" name="question3" value="C" id="C"><br>
+    <input type="radio" name="question3" value="D" id="D"><label>D.100M</label><br>
+    <input type="submit" value="确定">
+</form>
+<hr>
+<img src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo_top_86d58ae1.png" alt="">
+<form action="https://www.baidu.com/s" target="_blank">
+    <input type="text" placeholder="关键字" name="wd">
+    <input type="submit" value="百度搜索">
+</form>
+<hr>
+
+<img src="https://www.sogou.com/web/img/logo115_50.png?v=5" alt="">
+<form action="https://www.sogou.com/web" target="_blank">
+    <input type="text" placeholder="关键字" name="query">
+    <input type="submit" value="搜狗搜索">
+</form>
+<hr>
+
+<img width="150" src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/
+w%3D268%3Bg%3D0/sign=cfa666709a16fdfad86cc1e88cb4eb69/
+a08b87d6277f9e2f6f4180531830e924b899f371.jpg" alt="">
+<form action="https://cn.bing.com/search" target="_blank">
+    <input type="text"  placeholder="关键字" name="q">
+    <input type="submit" value="必应搜索">
+</form>
+<hr>
+
+<form action="">
+    <p><label >用户:</label><input type="text" placeholder="用户名"></p>
+    <p><label >密码:</label><input type="password" placeholder="密码"></p>
+    <!--密码用password 类型-->
+    <p><input type="submit" value="登录" ></p>
+</form>
+</body>
+</html>
