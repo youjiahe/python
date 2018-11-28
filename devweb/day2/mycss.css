@@ -1,0 +1,51 @@
+*{
+    font-size: 15pt;
+}
+h1{
+    color: darkmagenta;
+}
+body{
+    background: blanchedalmond;
+    /*text-align: center;*/
+}
+p{
+    /*background: aquamarine;*/
+    text-align: left;
+}
+.myclass{
+    font-size: 4pc;
+    /*background: #fdffb5;*/
+}
+.warning{
+    color: red;
+    text-align: right;
+}
+.important{
+    font-weight: bold;
+    text-align: center;
+}
+p.myclass2{
+    color: blue;
+}
+p, .myclass3{
+    font-family: Symbol;
+    font-size: 6pc;
+    color: crimson;
+}
+p .inner{
+    color: darkgoldenrod;
+}
+
+#pid{
+    color: darkgreen ;
+    font-size: 5pc;
+}
+a:link{
+    color: blueviolet;
+}
+a:hover{
+    font-size: 22pt;
+}
+a:visited{
+    color: aqua;
+}
