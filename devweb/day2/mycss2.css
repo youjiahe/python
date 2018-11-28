@@ -1,0 +1,30 @@
+html{
+    font-size: 30pt;
+}
+body{
+    font-size: 20pt;
+}
+#s1{
+    font-size: 80%;
+    color: #1ff6f9;
+}
+#s2{
+    font-size: 1.5cm;
+    color: #997766;
+}
+#s3{
+    font-size: 20mm;
+    color: #66ec88;
+}
+#s4{
+    font-size: 1in;
+    color: #67f;
+}
+#s5{
+    font-size: 1em;
+    color: #004411;
+}
+#s6{
+    font-size: 1rem;
+    color: #7711a2
+}

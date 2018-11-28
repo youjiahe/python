@@ -1,0 +1,32 @@
+.container{
+    width: 900px;
+}
+.header{
+    height: 60px;
+    background: #ccc;
+}
+.content{
+    height: 400px;
+}
+.left{
+    height: 400px;
+    width: 100px;
+    float: left;
+    background: #6677ff;
+}
+.center{
+    height: 400px;
+    width: 600px;
+    background: #448833;
+}
+.right{
+    float: right;
+    height: 400px;
+    width: 300px;
+    background: #fdffb5;
+
+}
+.footer{
+    height: 60px;
+    background: #ccc;
+}

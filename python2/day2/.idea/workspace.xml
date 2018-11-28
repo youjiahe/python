@@ -6,11 +6,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8341ff3a-8f33-428c-ba18-3c6c2ed9e88c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/css_test1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/ex_css.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/mycss.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/myhtml.html" />
-      <change beforePath="$PROJECT_DIR$/../../devweb/day1/sqlalchemy_py.py" afterPath="$PROJECT_DIR$/../../devweb/day1/sqlalchemy_py.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/3_column_tecahcer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/3_column_techer.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/box.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/box.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/guide.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/guide.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/mycss2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/mycss2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/one_column.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/one_column.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/three_column.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/three_column.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/two_column.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day2/two_column.html" />
+      <change beforePath="$PROJECT_DIR$/../../devweb/day2/ex_css.html" afterPath="$PROJECT_DIR$/../../devweb/day2/mycss.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -144,75 +154,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Internet_mail.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devops/day4/Internet_mail.py">
+      <file leaf-file-name="three_column.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devweb/day2/three_column.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="31" column="30" lean-forward="false" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            <state relative-caret-position="285">
+              <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="paramiko_ssh.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devops/day4/paramiko_ssh.py">
+      <file leaf-file-name="3_column_tecahcer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devweb/day2/3_column_tecahcer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="247">
+              <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stmplib_.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devops/day4/stmplib_.py">
+      <file leaf-file-name="3_column_techer.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devweb/day2/3_column_techer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="199">
+              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ding_Robot_markdown.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devops/day4/ding_Robot_markdown.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urllib_mget.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devops/day4/urllib_mget.py">
+      <file leaf-file-name="guide.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devweb/day2/guide.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-              <folding>
-                <element signature="e#23#55#0" expanded="true" />
-              </folding>
+              <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zabbix_version.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devops/day4/zabbix_version.py">
+      <file leaf-file-name="mycss.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devweb/day2/mycss.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-              <folding>
-                <element signature="e#23#34#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="398">
+              <caret line="45" column="8" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myhtml.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devweb/day2/myhtml.html">
+      <file leaf-file-name="mycss.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devweb/day2/mycss.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            <state relative-caret-position="161">
+              <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="box.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devweb/day2/box.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="box.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devweb/day2/box.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guide.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../devweb/day2/guide.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -221,33 +247,11 @@
       <file leaf-file-name="css_test1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../devweb/day2/css_test1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="209">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex_css.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../devweb/day2/ex_css.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mycss.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devweb/day2/mycss.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -281,20 +285,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../devops/day2/pymysql_create_table_again.py" />
-        <option value="$PROJECT_DIR$/../../devops/day2/pymysql_create_table.py" />
-        <option value="$PROJECT_DIR$/../../devops/day2/pymysql_again.py" />
-        <option value="$PROJECT_DIR$/../../devops/day2/sqlalchemy_again.py" />
-        <option value="$PROJECT_DIR$/../../devops/day2/sqlalchemy_query_again.py" />
-        <option value="$PROJECT_DIR$/../../devops/day3/request_getfile.py" />
-        <option value="$PROJECT_DIR$/../../devops/day3/mget_files.py" />
-        <option value="$PROJECT_DIR$/../../devops/day3/url_request_html.py" />
-        <option value="$PROJECT_DIR$/../../devops/day3/webbrower_.py" />
-        <option value="$PROJECT_DIR$/../../devops/day3/http_error_.py" />
-        <option value="$PROJECT_DIR$/../../devops/day3/paramiko_ssh_cmd.py" />
-        <option value="$PROJECT_DIR$/../../devops/day1/ping_fork.py" />
-        <option value="$PROJECT_DIR$/../../devops/day3/paramiko_ssh_fork.py" />
-        <option value="$PROJECT_DIR$/../../devops/day3/paramiko_ssh_for.py" />
         <option value="$PROJECT_DIR$/../../devops/day3/modify_header.py" />
         <option value="$PROJECT_DIR$/../../devops/day4/Internet_mail.py" />
         <option value="$PROJECT_DIR$/../../devops/day4/get_weather.py" />
@@ -332,6 +322,20 @@
         <option value="$PROJECT_DIR$/../../devweb/day2/css_test1.html" />
         <option value="$PROJECT_DIR$/../../devweb/day2/mycss.css" />
         <option value="$PROJECT_DIR$/../../devweb/day2/ex_css.html" />
+        <option value="$PROJECT_DIR$/../../devweb/day2/mycss2.html" />
+        <option value="$PROJECT_DIR$/../../devweb/day2/mycss2.css" />
+        <option value="$PROJECT_DIR$/../../devweb/day2/box.html" />
+        <option value="$PROJECT_DIR$/../../devweb/day2/box.css" />
+        <option value="$PROJECT_DIR$/../../devweb/day2/one_column.html" />
+        <option value="$PROJECT_DIR$/../../devweb/day2/one_column.css" />
+        <option value="$PROJECT_DIR$/../../devweb/day2/two_column.html" />
+        <option value="$PROJECT_DIR$/../../devweb/day2/two_column.css" />
+        <option value="$PROJECT_DIR$/../../devweb/day2/three_column.html" />
+        <option value="$PROJECT_DIR$/../../devweb/day2/three_column.css" />
+        <option value="$PROJECT_DIR$/../../devweb/day2/3_column_tecahcer.html" />
+        <option value="$PROJECT_DIR$/../../devweb/day2/3_column_techer.css" />
+        <option value="$PROJECT_DIR$/../../devweb/day2/guide.html" />
+        <option value="$PROJECT_DIR$/../../devweb/day2/guide.css" />
       </list>
     </option>
   </component>
@@ -341,11 +345,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="985" />
-    <option name="y" value="116" />
-    <option name="width" value="1109" />
-    <option name="height" value="923" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="960" />
+    <option name="y" value="28" />
+    <option name="width" value="960" />
+    <option name="height" value="1018" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -427,19 +431,19 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../devweb/day2" />
+      <recent name="$PROJECT_DIR$/../../devops/review" />
+      <recent name="$PROJECT_DIR$/../../devops/day4" />
+      <recent name="$PROJECT_DIR$/../../devops/day3" />
+      <recent name="$PROJECT_DIR$/../../python1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../../devops/review" />
       <recent name="$PROJECT_DIR$/../../devops/day2" />
       <recent name="$PROJECT_DIR$/../../devops/day1" />
       <recent name="$PROJECT_DIR$/../day3" />
       <recent name="$PROJECT_DIR$/../day1/test" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../../devops/review" />
-      <recent name="$PROJECT_DIR$/../../devops/day4" />
-      <recent name="$PROJECT_DIR$/../../devops/day3" />
-      <recent name="$PROJECT_DIR$/../../python1" />
-      <recent name="$PROJECT_DIR$/../../devops/day2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -454,26 +458,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.ex_css.html">
-    <configuration name="css_test1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day2/css_test1.html" />
-    <configuration name="ex_css.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day2/ex_css.html" />
-    <configuration name="html_integrated_use.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day1/html_integrated_use.html" />
-    <configuration name="html_integrated_use.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/html_integrated_use.html" />
-    <configuration name="myhtml.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day2/myhtml.html" />
+  <component name="RunManager" selected="JavaScript Debug.guide.html">
+    <configuration name="3_column_tecahcer.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day2/3_column_tecahcer.html" />
+    <configuration name="guide.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day2/guide.html" />
+    <configuration name="mycss.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day2/mycss.html" />
+    <configuration name="three_column.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day2/three_column.html" />
+    <configuration name="two_column.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day2/two_column.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.html_integrated_use.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.html_integrated_use.html (1)" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.myhtml.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.css_test1.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.ex_css.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.two_column.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.three_column.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.3_column_tecahcer.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.mycss.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.guide.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.ex_css.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.css_test1.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.myhtml.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.html_integrated_use.html (1)" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.html_integrated_use.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.guide.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.mycss.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.3_column_tecahcer.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.three_column.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.two_column.html" />
       </list>
     </recent_temporary>
   </component>
@@ -503,17 +507,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="985" y="116" width="1109" height="923" extended-state="0" />
+    <frame x="960" y="28" width="960" height="1018" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875144" sideWeight="0.49572194" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24550128" sideWeight="0.52219075" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23482245" sideWeight="0.5263736" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2542595" sideWeight="0.46558705" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.49786097" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875144" sideWeight="0.49572194" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4684492" sideWeight="0.49786097" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26817754" sideWeight="0.49405771" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24550128" sideWeight="0.47780925" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31208792" sideWeight="0.49405771" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23482245" sideWeight="0.47362638" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -550,104 +554,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../devops/day5/access_log_count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/day1/fork_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/day5/deploy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/day2/pymysql_select.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/day2/pymysql_again.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/day2/pymysql_insert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/day2/sqlalchemy_add.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/day2/sqlalchemy_query.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/day3/webbrower_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/day4/ding_Robot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/review/ding_Robot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/review/deploy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="84" column="42" lean-forward="false" selection-start-line="84" selection-start-column="42" selection-end-line="84" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/review/pinf_for.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devops/day6/myansible/mymodule/mycopy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../devops/day6/myansible/mymodule/mycopy_.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -868,31 +774,141 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/mycss2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/mycss2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/one_column.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/one_column.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/two_column.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/two_column.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/three_column.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/three_column.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/3_column_tecahcer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/3_column_techer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/mycss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="45" column="8" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../devweb/day2/css_test1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="209">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../devweb/day2/mycss.css">
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/mycss.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+        <state relative-caret-position="161">
+          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../devweb/day2/ex_css.html">
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/box.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="209">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/box.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/guide.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/guide.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

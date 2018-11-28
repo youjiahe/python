@@ -1,0 +1,28 @@
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.header{
+    height: 50px;
+    background: #aaa;
+}
+.content{
+    height: 410px;
+    background: #6677ff;
+}
+.left{
+    float: left;
+    width: 100px;
+    height: 400px;
+    background: #448833;
+}
+.right{
+    margin-left:100px;
+    width: 900px;
+    height: 410px;
+    background: #443388;
+}
+.footer{
+    height: 50px;
+    background:#aaa;
+}

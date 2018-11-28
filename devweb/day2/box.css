@@ -1,0 +1,43 @@
+body{
+    background-image: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543401891679&di=b7681dc934295c06865942bfb0c7fe89&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20180403%2F8253c55318344db18ac23f5ae47b1e98.jpeg");
+    background-repeat: repeat;
+    background-origin: content-box;
+    background-size:95%;
+    /*background-size: contain;*/
+}
+#box{
+    width: 200px;
+    height: 100px;
+    border: 2px solid #ff4456;
+    padding: 50px;
+    margin: 10px;
+    color: #fdffb5;
+}
+#box1 {
+    width: 200px;
+    height: 100px;
+    border: 2px solid #444;
+    padding: 50px;
+    margin: 10px;
+    color: #004478;
+    font-size: 50px;
+    background: #aaa;
+}
+#d1{
+    font-family: "DejaVu Sans";
+    font-weight: 200;
+    color: #fdffb5;
+    font-size: 50px;
+}
+#d2{
+    font-family: "Lohit Kannada";
+    font-style: oblique;
+    color: #fdffb5;
+    font-size: 50px;
+}
+#d3{
+    font-family: Cursor;
+    font-variant: small-caps;
+    color: #fdffb5;
+    font-size: 50px;
+}

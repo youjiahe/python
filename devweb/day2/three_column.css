@@ -1,0 +1,36 @@
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+.header{
+    height: 60px;
+    background: #ccc;
+}
+.content{
+    height: 410px;
+    background: #aa7766;
+}
+.left{
+
+    float: left;
+    width: 300px;
+    height: 410px;
+    background: blue;
+}
+.middle{
+    /*margin-left:100px;*/
+    float: left;
+    width: 300px;
+    height: 410px;
+    background: white;
+}
+.right {
+    margin-left:600px;
+    width: 300px;
+    height: 410px;
+    background: red;
+}
+.footer{
+    height: 60px;
+    background: #ccc;
+}

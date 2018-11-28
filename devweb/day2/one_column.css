@@ -1,0 +1,16 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.header{
+    height: 50px;
+    background: #aaa;
+}
+.content{
+    height: 400px;
+    background: #678;
+}
+.footer{
+    height: 50px;
+    background:#aaa;
+}
