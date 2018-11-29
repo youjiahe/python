@@ -6,9 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8341ff3a-8f33-428c-ba18-3c6c2ed9e88c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day3/bootstrap_css.html" />
-      <change beforePath="$PROJECT_DIR$/../../devweb/day2/myweb.css" afterPath="$PROJECT_DIR$/../../devweb/day2/myweb.css" />
-      <change beforePath="$PROJECT_DIR$/../../devweb/day2/myweb.html" afterPath="$PROJECT_DIR$/../../devweb/day2/myweb.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day3/bootform.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../devweb/day3/web_pro.html" />
+      <change beforePath="$PROJECT_DIR$/../../devweb/day3/bootstrap_css.html" afterPath="$PROJECT_DIR$/../../devweb/day3/bootstrap_css.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -152,54 +152,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="guide.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devweb/day2/guide.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="35" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mycss2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devweb/day2/mycss2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="myweb.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../devweb/day2/myweb.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state relative-caret-position="247">
+              <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap_css.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bootstrap_css.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../devweb/day3/bootstrap_css.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+            <state relative-caret-position="190">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
-                <element signature="e#3381#3385#0" expanded="true" />
-                <element signature="e#3392#3396#0" expanded="true" />
+                <element signature="e#3373#3377#0" expanded="true" />
+                <element signature="e#3384#3388#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pymysql_.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devops/review/pymysql_.py">
+      <file leaf-file-name="bootform.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../devweb/day3/bootform.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="-456">
+              <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web_pro.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devweb/day3/web_pro.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -215,21 +205,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3_column_tecahcer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devweb/day2/3_column_tecahcer.html">
+      <file leaf-file-name="mycss.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devweb/day2/mycss.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="two_column.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../devweb/day2/two_column.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            <state relative-caret-position="322">
+              <caret line="41" column="1" lean-forward="false" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -238,8 +218,28 @@
       <file leaf-file-name="two_column.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../devweb/day2/two_column.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="304">
+              <caret line="16" column="23" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="three_column.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devweb/day2/three_column.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="row_guide.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../devweb/day2/row_guide.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="13" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -274,9 +274,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../devops/day4/ding_Robot_link.py" />
-        <option value="$PROJECT_DIR$/../../devops/day4/zabbix_version.py" />
-        <option value="$PROJECT_DIR$/../../devops/day4/paramiko_ssh.py" />
         <option value="$PROJECT_DIR$/../../devops/day5/hello.c" />
         <option value="$PROJECT_DIR$/../../devops/day5/backup.py" />
         <option value="$PROJECT_DIR$/../../devops/day5/access_log_count.py" />
@@ -325,6 +322,9 @@
         <option value="$PROJECT_DIR$/../../devweb/day2/myweb.html" />
         <option value="$PROJECT_DIR$/../../devops/review/pymysql_.py" />
         <option value="$PROJECT_DIR$/../../devweb/day3/bootstrap_css.html" />
+        <option value="$PROJECT_DIR$/../../devweb/day3/bootform.html" />
+        <option value="$PROJECT_DIR$/../../devweb/day3/static/web_pro.html" />
+        <option value="$PROJECT_DIR$/../../devweb/day3/web_pro.html" />
       </list>
     </option>
   </component>
@@ -334,11 +334,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="785" />
-    <option name="y" value="129" />
-    <option name="width" value="1128" />
-    <option name="height" value="895" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="960" />
+    <option name="y" value="28" />
+    <option name="width" value="960" />
+    <option name="height" value="1018" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -403,7 +403,23 @@
             <path>
               <item name="day2" type="b2602c69:ProjectViewProjectNode" />
               <item name="devweb" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="devweb" type="462c0819:PsiDirectoryNode" />
+              <item name="day2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="devweb" type="462c0819:PsiDirectoryNode" />
               <item name="day3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="devweb" type="462c0819:PsiDirectoryNode" />
+              <item name="day3" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -415,18 +431,18 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/文档/百度一下，你就知道.html" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///root/git/python/devweb/day2/guide.html" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../devweb/day3" />
       <recent name="$PROJECT_DIR$/../../devops/review" />
       <recent name="$PROJECT_DIR$/../../devops/day2" />
       <recent name="$PROJECT_DIR$/../../devops/day1" />
       <recent name="$PROJECT_DIR$/../day3" />
-      <recent name="$PROJECT_DIR$/../day1/test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../../devweb/day2" />
@@ -448,26 +464,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.bootstrap_css.html">
+  <component name="RunManager" selected="JavaScript Debug.web_pro.html">
+    <configuration name="bootform.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day3/bootform.html" />
     <configuration name="bootstrap_css.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day3/bootstrap_css.html" />
-    <configuration name="guide.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day2/guide.html" />
+    <configuration name="myform.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day1/myform.html" />
     <configuration name="myweb.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day2/myweb.html" />
-    <configuration name="row_guide.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day2/row_guide.html" />
-    <configuration name="two_column.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day2/two_column.html" />
+    <configuration name="web_pro.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day2/day3/web_pro.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.guide.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.row_guide.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.myweb.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.two_column.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.bootstrap_css.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.myweb.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.bootstrap_css.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.myform.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.bootform.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.web_pro.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.bootstrap_css.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.myweb.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.two_column.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.row_guide.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.guide.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.web_pro.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.bootform.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.bootstrap_css.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.myweb.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.myform.html" />
       </list>
     </recent_temporary>
   </component>
@@ -497,16 +513,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="785" y="129" width="1128" height="895" extended-state="0" />
+    <frame x="960" y="28" width="960" height="1018" extended-state="4" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875144" sideWeight="0.49572194" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27733332" sideWeight="0.53803337" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27733332" sideWeight="0.53803337" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.49786097" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875144" sideWeight="0.49572194" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2542595" sideWeight="0.46558705" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46775746" sideWeight="0.49786097" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28107607" sideWeight="0.49405771" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27733332" sideWeight="0.4619666" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2695187" sideWeight="0.49786097" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23736264" sideWeight="0.49405771" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.276" sideWeight="0.4619666" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -537,27 +554,17 @@
           <line>1</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../devweb/day1/sqlalchemy_py.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="21" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-401344988/time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="279" column="22" lean-forward="true" selection-start-line="279" selection-start-column="22" selection-end-line="279" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/文档/百度一下，你就知道.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devweb/my_form.html" />
     <entry file="file://$PROJECT_DIR$/../../devweb/test.html" />
     <entry file="file://$PROJECT_DIR$/../../devweb/test1.html" />
     <entry file="file://$PROJECT_DIR$/../../devops/index.html">
@@ -577,24 +584,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../devweb/html_integrated_use.html" />
     <entry file="file://$PROJECT_DIR$/../../devweb/my_table.html" />
-    <entry file="file://$PROJECT_DIR$/../../devweb/day1/my_table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../devops/review/sqlalchemy_.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devweb/day1/sqlalchemy_py.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -609,13 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devweb/day1/myform.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -696,20 +682,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../devweb/day2/three_column.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devweb/day2/three_column.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../devweb/day2/3_column_techer.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
@@ -759,20 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../devweb/day2/mycss.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="45" column="8" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devweb/day2/row_guide.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../devweb/day2/row_guide.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -816,34 +774,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../devweb/day2/two_column.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../devweb/day2/3_column_tecahcer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devweb/day2/myweb.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../devweb/day2/myweb.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -856,6 +790,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day1/myform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day1/sqlalchemy_py.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day1/my_table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day1/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/three_column.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/two_column.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="23" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/three_column.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/row_guide.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/myweb.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../devweb/day2/guide.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -864,14 +870,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/myweb.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day2/mycss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="41" column="1" lean-forward="false" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../devweb/day3/bootstrap_css.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="e#3381#3385#0" expanded="true" />
-            <element signature="e#3392#3396#0" expanded="true" />
+            <element signature="e#3373#3377#0" expanded="true" />
+            <element signature="e#3384#3388#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day3/web_pro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../devweb/day3/bootform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
