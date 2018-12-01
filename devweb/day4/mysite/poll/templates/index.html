@@ -6,5 +6,23 @@
 </head>
 <body>
 <h1>这是投票首页</h1>
+<hr>
+
+<hr>
+{% for q in questions %}
+    <div><a href="/poll/{{ q.id }}/" target="_blank">{{ q.question_text }}</a> {{ q.pub_date }}</div>
+{% endfor %}
+<hr>
+{#{% for q in questions %}#}
+{#    {% if q.was_pub_recently %}#}
+{#        <div>{{ q.question_text }}  {{ q.pub_date }}</div>#}
+{#    {% endif %}#}
+{#{% endfor %}#}
+{#<hr>#}
+{#{% for q in questions %}#}
+{#    <div>{{ q.question_text }}  {{ q.pub_date }}</div>#}
+{#{% endfor %}#}
+{#<hr>#}
+{#{{ questions }}#}
 </body>
 </html>
