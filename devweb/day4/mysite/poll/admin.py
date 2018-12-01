@@ -8,5 +8,9 @@ class QuestionAdmin(admin.ModelAdmin):
     search_fields = ['question_text']
     date_hierarchy = 'pub_date'
     ordering = ['-pub_date']
+class ChoiceAdmin(admin.ModelAdmin):
+    list_display = ['question','choice_text','vote']
+    search_fields = ['question_id']
+    ordering = ['-vote']
 admin.site.register(Questions,QuestionAdmin)
-admin.site.register(Choice)
+admin.site.register(Choice,ChoiceAdmin)
