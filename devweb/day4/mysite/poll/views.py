@@ -19,5 +19,5 @@ def vote(request,question_id):
     choice = questions.choice_set.get(id=choice_id)
     choice.vote += 1
     choice.save()
+    return redirect('result',question_id=question_id)
 
-    return redirect(request,'vote.html',{'questions': questions})
