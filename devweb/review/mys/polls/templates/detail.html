@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>detail</title>
+</head>
+<body>
+<form action="/polls/{{ question.id }}/vote/" method="post">
+    {{ question.question_text }}
+    {% for choice in question.choice_set.all %}
+        <p>
+            <label>
+                <input type="radio" name="choice_id" value="{{ choice.id }}">{{ choice.choice_text }}
+            </label>
+        </p>
+    {% endfor %}
+    <input type="submit" value="提交">
+</form>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>这是模板首页</title>
+</head>
+<body>
+{% for question in questions %}
+    <p><a href="{% url 'detail' question_id=question.id %}" target="_blank">
+        {{ question.question_text }}
+    </a>
+        {{ question.pub_date }}</p>
+{% endfor %}
+</body>
+</html>
