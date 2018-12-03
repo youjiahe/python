@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block title %}
+myhello
+{% endblock %}
+{% block content %}
+<hr>
+{% if num > 100 %}
+    大
+    {% elif num < 100 %}
+    小
+    {% else %}
+    等于100
+{% endif %}
+<hr>
+{% for s in student %}
+    <p>{{ forloop.revcounter0 }}.{{ s }}</p>
+{% endfor %}
+<hr>
+{% for user in student %}
+    {{ forloop.counter }} {{ user }} {#会显示数字#}
+{#    1 尤家和 2 路德维 3 两家先 4 赵明刚#}
+{% endfor %}
+<hr>
+{{ class.11 }}
+<hr>
+{{ dict.email }}
+<hr>
+{{ student.2 }}
+<hr>
+{{ num}}/{{ student }}/{{ dict }}/{{ class }}
+{% endblock %}

@@ -1,24 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-
+{% extends 'base.html' %}
+{% block title %}My Blog{% endblock %}
+{% block content %}
+<div>
+    <form action="" method="post">
+        <label for="">标题 <input type="text" name="title" class="input-md"></label>
+        <textarea name="content" id="content" cols="30" rows="10" placeholder="博客内容" ></textarea><br>
+        <input type="submit" value="发布">
+    </form>
+</div>
+<hr>
 {% for article in articles %}
-    <div>
-        <h3>{{ article.title }}</h3>
-        <h5>{{ article.pub_date }}</h5>
-        <hr>
-        {{ arts }}=[]
-        {% for a in article.text %}
-            {{ arts }}.append(a+'\r\n')
-        {% endfor %}
-        {% for line in arts %}
-            {{ line }}
-        {% endfor %}
-    </div>
-{% endfor %}}
-</body>
-</html>
+    <h3>{{ article.title }}</h3><br>
+    {{ article.pub_date }}<br>
+    {{ article.text |linebreaksbr | truncatewords:10 }}
+    <form action="" method="post">
+        <input type="submit" name="open" value="展开">
+    </form>
+    <hr>
+{% endfor %}
+{% endblock %}
