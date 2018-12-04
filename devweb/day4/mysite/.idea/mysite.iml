@@ -18,6 +18,8 @@
     <orderEntry type="module" module-name="blog" />
     <orderEntry type="module" module-name="day3" />
     <orderEntry type="module" module-name="myansible" />
+    <orderEntry type="module" module-name="day2" />
+    <orderEntry type="module" module-name="ansi" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />

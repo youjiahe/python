@@ -1,5 +1,4 @@
 from django.db import models
-from . import views
 # Create your models here.
 class HostGroup(models.Model):
     groupname = models.CharField(max_length=50,unique=True)
