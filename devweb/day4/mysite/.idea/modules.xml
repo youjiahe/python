@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../../day6/blog/.idea/blog.iml" filepath="$PROJECT_DIR$/../../day6/blog/.idea/blog.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../day3/.idea/day3.iml" filepath="$PROJECT_DIR$/../../day3/.idea/day3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../day7/myansible/.idea/myansible.iml" filepath="$PROJECT_DIR$/../../day7/myansible/.idea/myansible.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mysite.iml" filepath="$PROJECT_DIR$/.idea/mysite.iml" />
     </modules>
   </component>
