@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block title %}
+My Ansi
+{% endblock %}
+{% block content %}
+        <div class="row h3">
+            <div class="col-md-3 text-center">
+                <a href="/ops_tools1/">
+                    <img width='150px' height="150" src="{% static 'imgs/linux.jpg' %}" alt="imgs/linux.jpg">
+                    <br>
+                    主机信息
+                </a>
+            </div>
+            <div class="col-md-3 text-center">
+                <a href="">
+                    <img width='150px' height="150" src="{% static 'imgs/host.png' %}" alt="imgs/host.png">
+                    <br>
+                    添加主机
+                </a>
+            </div>
+            <div class="col-md-3 text-center">
+                <a href="">
+                    <img width='150px' height="150" src="{% static 'imgs/addmod.png' %}" alt="imgs/addmod.png">
+                    <br>
+                    添加模块
+                </a>
+            </div>
+            <div class="col-md-3 text-center">
+                <a href="">
+                    <img width='150px' height="150" src="{% static 'imgs/tasks.png' %}" alt="imgs/tasks.png">
+                    <br>
+                    执行模块
+                </a>
+            </div>
+        </div>
+{% endblock %}
