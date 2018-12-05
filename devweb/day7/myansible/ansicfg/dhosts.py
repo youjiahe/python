@@ -30,6 +30,14 @@ class Host(Base):
     def __str__(self):
         return '<%s : %s>'  % (self.hostname,self.ipaddr)
 
+class AnsibleModule(Base):
+    __tablename__='webansi_ansimodule'
+    id = Column(Integer,primary_key=True)
+    module_name=Column(String(30),unique=True)
+
+    def __str__(self):
+        return self.module_name
+
 if __name__ == '__main__':
     session=Session()
     qset = session.query(Host.ipaddr,HostGroup.groupname)\
