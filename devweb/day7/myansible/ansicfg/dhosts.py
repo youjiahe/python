@@ -24,7 +24,7 @@ class Host(Base):
     __tablename__='webansi_host'
     id=Column(Integer,primary_key=True)
     hostname=Column(String(50),unique=True)
-    ipaddr=Column(String(15),unique=True)
+    ipaddr=Column(String(15))
     group_id=Column(Integer,ForeignKey('webansi_hostgroup.id',ondelete=True))
 
     def __str__(self):

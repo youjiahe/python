@@ -16,6 +16,9 @@
     <orderEntry type="jdk" jdkName="Python 3.6 (djenv)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="myansible" />
+    <orderEntry type="module" module-name="day3" />
+    <orderEntry type="module" module-name="blog" />
+    <orderEntry type="module" module-name="ansi" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />

@@ -4,15 +4,15 @@
 {% block content %}
      <div class="row">
             <div class="col-md-3 text-center">
-                <a href="/webansi/">
+                <a href="/webansi/" target="_blank">
                     <img src="{% static 'imgs/linux.jpg'%}" width="150px" alt="imgs/linux.jpg">
                     <br>
                     主机信息
                 </a>
 
             </div>
-            <div class="col-md-3 text-center ">
-                <a href="">
+            <div class="col-md-3 text-center" >
+                <a href="{% url 'polls_addhosts' %}" target="_blank">
                     <img src="{% static 'imgs/linux.jpg' %}"  width="150px" alt="imgs/linux.jpg">
 
                 <br>
@@ -20,19 +20,20 @@
                 </a>
             </div>
             <div class="col-md-3 text-center">
-                <a href="">
+                <a href="" target="_blank">
                     <img src="{% static 'imgs/linux.jpg'%}" width="150px" alt="imgs/linux.jpg">
                     <br>
                     添加模块
                 </a>
 
             </div>
-            <div class="col-md-3 text-center ">
-                <a href="">
+            <div class="col-md-3 text-center " >
+                <a href="" target="_blank">
                     <img src="{% static 'imgs/linux.jpg' %}"  width="150px" alt="imgs/linux.jpg">
                 <br>
                 执行任务
                 </a>
             </div>
         </div>
+
 {% endblock  %}
