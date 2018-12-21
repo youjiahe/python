@@ -49,11 +49,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="709" />
-    <option name="y" value="30" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="86" />
     <option name="width" value="1114" />
-    <option name="height" value="1016" />
+    <option name="height" value="529" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -86,10 +85,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,15 +103,14 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="bootstrap_review.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day5/bootstrap_review.html" />
+    <configuration name="bootstrap_review.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/day5/bootstrap_review.html">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.bootstrap_review.html" />
+      <list>
+        <item itemvalue="JavaScript Debug.bootstrap_review.html" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
